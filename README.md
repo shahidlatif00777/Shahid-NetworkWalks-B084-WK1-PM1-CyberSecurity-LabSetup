@@ -10,7 +10,8 @@
 ![Network](https://img.shields.io/badge/NAT%20Network-10.0.0.0%2F24-2E8B57?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-<img src="screenshots/03-kali-desktop.png" alt="Kali Linux Desktop" width="85%">
+<img width="1918" height="948" alt="03-kali-desktop" src="https://github.com/user-attachments/assets/0230a37b-ab3f-465c-b686-5cce69748500" />
+
 
 </div>
 
@@ -68,7 +69,7 @@ A Windows 11 host runs VirtualBox. Kali Linux is the attacker/security machine, 
 
 <div align="center">
 
-<img src="screenshots/05-lab-architecture.png" alt="Cybersecurity Lab Architecture" width="90%">
+<img width="1370" height="623" alt="05-lab-architecture" src="https://github.com/user-attachments/assets/610d5107-8fd7-4760-bd16-15ba9ce51af4" />
 
 <sub>Reference architecture diagram — credit: <a href="https://networkwalks.com">NetworkWalks</a>. Only the Kali VM is built in this project; the other VMs are optional future additions.</sub>
 
@@ -117,7 +118,8 @@ Installed [Oracle VirtualBox](https://www.virtualbox.org/) on the host. It lets 
 
 <div align="center">
 
-<img src="screenshots/02-virtualbox-nat-network.png" alt="VirtualBox NAT Network Settings" width="70%">
+<img width="955" height="932" alt="02-virtualbox-nat-network" src="https://github.com/user-attachments/assets/4ee2a109-c9fa-414e-a00f-6ed106ec978c" />
+
 
 <sub>VirtualBox → NAT Networks: <code>NatNetwork</code> with prefix <code>10.0.0.0/24</code> and DHCP enabled.</sub>
 
@@ -138,7 +140,8 @@ RAM: 4096 MB
 
 <div align="center">
 
-<img src="screenshots/03-kali-desktop.png" alt="Kali Linux Desktop" width="85%">
+<img width="1918" height="948" alt="03-kali-desktop" src="https://github.com/user-attachments/assets/780a6206-d6e8-4530-81c2-31edc59257d5" />
+
 
 <sub>Kali Linux booted successfully inside VirtualBox.</sub>
 
@@ -158,7 +161,8 @@ Opened the Kali network settings (**Wired → IPv4**) and set a manual static co
 
 <div align="center">
 
-<img src="screenshots/01-kali-network-settings.png" alt="Kali Linux Network Configuration" width="55%">
+<img width="743" height="596" alt="01-kali-network-settings" src="https://github.com/user-attachments/assets/1707aed4-f54b-4020-9fc5-24d68037359a" />
+
 
 <sub>Kali Linux Wired connection → IPv4 manual configuration.</sub>
 
@@ -179,7 +183,8 @@ Created a clean snapshot with VirtualBox's snapshot feature. It is a recovery po
 
 <div align="center">
 
-<img src="screenshots/04-virtualbox-snapshot.png" alt="Kali Linux VM Snapshot" width="70%">
+<img width="953" height="932" alt="04-virtualbox-snapshot" src="https://github.com/user-attachments/assets/5cbfaa20-7ed7-4de8-87b8-3d20814a0a9f" />
+
 
 <sub>Snapshots tab showing the saved Kali Linux snapshot and the current (changed) state.</sub>
 
